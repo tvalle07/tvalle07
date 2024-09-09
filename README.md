@@ -1,16 +1,15 @@
-## Hi there 👋
+### Boas vindas ao meu perfil 🖤
 
-<!--
-**tvalle07/tvalle07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Thifany Valle
 
-Here are some ideas to get you started:
+- Estou estudando na Alura
+- Estou me desenvolvendo na linguagem JavaScript
+- Utilizo esse espaço para minha organizaçâo e compartilhamento dos meu projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ### Você entrar em contato comigo 📫
+
+  0000109570607Xsp@al.educacao.sp.gov.br
+
+
+
+  ![](https://media.tenor.com/Rv3x7_Mlj1kAAAAi/stich-beso.gif)
